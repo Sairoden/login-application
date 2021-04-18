@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.exe
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.deps.json
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.runtimeconfig.json
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.runtimeconfig.dev.json
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.dll
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\bin\Debug\netcoreapp3.1\Sign up and Login Application.pdb
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.AssemblyInfo.cs
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.dll
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.pdb
+C:\Users\user\source\repos\Sign up and Login Application\Sign up and Login Application\obj\Debug\netcoreapp3.1\Sign up and Login Application.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sign up and Login Application/1.0.0": {
+        "runtime": {
+          "Sign up and Login Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sign up and Login Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
